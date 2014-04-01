@@ -1,3 +1,4 @@
+
 /* global jQuery, setTimeout */
 (function ($, setTimeout) {
     'use strict';
